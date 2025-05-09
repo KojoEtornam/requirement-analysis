@@ -114,6 +114,7 @@ Benefits of Use Case Diagrams
 ✅ Identify System Boundaries: Clearly define what is inside and outside the scope of the system.
 
 ✅ Enhance Communication: Facilitate discussion between developers, clients, and end-users.
+![alx-booking-uc](https://github.com/user-attachments/assets/a76148d1-de28-490c-8293-ea4dc6090ccb)
 
 https://drive.google.com/file/d/1h0JeSmfWOg2JVDIRiVNlx3gC7nu5PTQp/view?usp=drive_link
 
